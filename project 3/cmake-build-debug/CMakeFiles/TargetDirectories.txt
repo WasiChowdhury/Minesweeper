@@ -1,0 +1,4 @@
+C:/Users/wasic/Desktop/project 3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/wasic/Desktop/project 3/cmake-build-debug/CMakeFiles/project_3.dir
+C:/Users/wasic/Desktop/project 3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/wasic/Desktop/project 3/cmake-build-debug/CMakeFiles/Minesweeper.dir
